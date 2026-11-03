@@ -1,7 +1,7 @@
 {
-  "name": "@local/model-price-radar",
-  "version": "1.0.0",
-  "private": true,
+  "name": "@yixiu/model-price-radar",
+  "version": "1.0.1",
+  "private": false,
   "type": "module",
   "description": "Real-time LLM price radar with time-of-day tariffs and workload-based cheapest-model matching.",
   "exports": {
